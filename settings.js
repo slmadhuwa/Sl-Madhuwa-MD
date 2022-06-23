@@ -1,6 +1,6 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              ♥️HIRU𝚄_QUEEN 𝓫𝔂 Sihilel♥️
+//                              ♥️SL MADHUWA BOT BY MADHUSANKA♥️
 //𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
 //
 //════════════════════════════//
@@ -20,29 +20,29 @@ global.APIKeys = {
 
 //customize settings\\
 global.owner = ['94704101989']
-global.premium = ['94704101989']
-global.ownernomer = '94704101989'
-global.ownername = '❤️S_I_H_I_L_E_L❤️'
-global.botname = '❤️𝙷𝙸𝚁𝚄𝚄_𝚀𝚄𝙴𝙴𝙽_𝙱𝙾𝚃❤️'
-global.footer = '©Sihilel.'
+global.premium = ['94770479058']
+global.ownernomer = '94770479058'
+global.ownername = 'M_A_D_H_U_S_A_N_K_A'
+global.botname = 'SL MADHUWA BOT'
+global.footer = '©MADHUSANKA.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/Dark-Sihilel/Dark-Hiruu'
 global.myweb = 'https://sites.google.com/view/hiruu-queen-bot/home'
-global.packname = '❤️HIRUU-QUEEN❤️'
-global.author = '❤️S_I_H_I_L_E_L❤️'
+global.packname = 'SL-MADHUWA-BOT'
+global.author = 'M_A_D_H_U_S_A_N_K_A'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: '♥️S+H♥️ ඇඩ්මින්ලට විතරයි මේක පුලුවන් ළමයෝ 🌝',
-    botAdmin: '♥️S+H♥️ ඇඩ්මින් දියන්කෝ මුලින් 😒',
-    owner: '♥️S+H♥ Owner ට විතරයි ළමයෝ ඕක පුලුවන් 🙏 ',
-    group: '♥️S+H♥️ group වල විතරයි ඕක😒',
-    private: '♥️S+H♥️ inbox විතරයි පුලුවන්🌝',
-    bot: '♥️S+H♥️ මේක මට විතරයි පුලුවන්😌👍 ඔයා පාඩුවේ ඉන්න 😒',
-    wait: '♥️S+H♥️ චුට්ටක් ඉන්න බබා 🌸🙏',
+    admin: '♥️P+D♥️ ඇඩ්මින්ලට විතරයි මේක පුලුවන් ළමයෝ 🌝',
+    botAdmin: '♥️P+D♥️ ඇඩ්මින් දියන්කෝ මුලින් 😒',
+    owner: '♥️P+D♥ Owner ට විතරයි ළමයෝ ඕක පුලුවන් 🙏 ',
+    group: '♥️P+D♥️ group වල විතරයි ඕක😒',
+    private: '♥️P+D♥️ inbox විතරයි පුලුවන්🌝',
+    bot: '♥️P+D♥️ මේක මට විතරයි පුලුවන්😌👍 ඔයා පාඩුවේ ඉන්න 😒',
+    wait: '♥️P+D♥️ චුට්ටක් ඉන්න බබා 🌸🙏',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
