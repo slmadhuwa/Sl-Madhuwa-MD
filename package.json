@@ -1,5 +1,5 @@
 {
-  "name": "Hiruu-Queen",
+  "name": "SL-MADHUWA",
   "version": "2.0.0",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "termux",
     "whatsapp",
     "2022",
-    "Hiruu-Queen",
+    "SL-MADHUWA",
     "base",
     "baileys-md",
     "bot",
@@ -64,10 +64,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dark-Sihilel/Dark-Hiruu.git"
+    "url": "git+https://github.com/slmadhuwa/Sl-Madhuwa-MD.git"
   },
   "bugs": {
-    "url": "https://github.com/Dark-Sihilel/Dark-Hiruu/issues"
+    "url": "https://github.com/slmadhuwa/Sl-Madhuwa-MD/issues"
   },
-  "homepage": "https://github.com/Dark-Sihilel/Dark-Hiruu#readme"
+  "homepage": "https://github.com/slmadhuwa/Sl-Madhuwa-MD#readme"
 }
